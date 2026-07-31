@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Test/tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local/generated folders
+__pycache__/
+data/
+litigation_results/
+
+# PDFs not included in GitHub
+Civil Codebook 1970-1987.pdf
+Civil Codebook 1988 Forward 10252023.pdf
+ssrn_id4780166_code2599841.pdf
+
+# Jupyter temporary files
+.ipynb_checkpoints/
