@@ -596,3 +596,8 @@ The outcome model clears chance by a solid margin, with party role and district 
 > **Litigation characteristics are moderately informative about how a case will go. The evidence so far doesn't show a reliable stock-price difference between winning and losing.**
 
 The most promising next step is probably combining predicted win probabilities with better-chosen event dates, properly adjusted return data, and a direct measure of how *surprising* each outcome actually was.
+
+## Author
+
+Diego Ascencio Schutz  
+GitHub: @diascencio(https://github.com/diascencio)
